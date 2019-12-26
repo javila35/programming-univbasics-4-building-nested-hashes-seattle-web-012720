@@ -24,8 +24,9 @@ def monopoly_with_third_tier
       :two_pieces_owned => 2,
       :three_pieces_owned => 3,
       :four_pieces_owned => 4
-    }
-    }
+        }
+      }
+  }
 end
 
 def monopoly_with_fourth_tier
